@@ -5,7 +5,7 @@ name = "cf-worker-ws-dev" # todo
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "tr-amazon.v-less.biz.id"
+pattern = "tr-us.v-less.biz.id"
 custom_domain = true
 
 [vars]
@@ -15,5 +15,5 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-PASSWORD = "HK-BitzBlack"
-PROXYIP = "43.198.231.169"
+PASSWORD = "US-BitzBlack"
+PROXYIP = "4.255.56.137"
