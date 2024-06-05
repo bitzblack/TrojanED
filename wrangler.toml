@@ -16,4 +16,4 @@ custom_domain = true
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
 UUID = "b0cb1b0b-f5ba-4ca4-a587-cfe48126bff7"
-พร็อกซีไอพีs = "89.34.227.133"
+PROXYIP = "89.34.227.133"
