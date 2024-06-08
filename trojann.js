@@ -1,9 +1,9 @@
 // src/worker.js
 import { connect } from "cloudflare:sockets";
 
-let Pswd = 'bexnxx';
-let proxyIP = "proxyip.bexnxx.filegear-sg.me";
-let hostnames = ["t.me/bexnxx"];
+let Pswd = 'coba';
+let proxyIP = "8.222.181.117";
+let hostnames = ["tr-coba.v-less.biz.id"];
 let sha224Password ;
 const worker_default = {
     /**
