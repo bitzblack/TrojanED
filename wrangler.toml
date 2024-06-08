@@ -7,6 +7,9 @@ compatibility_date = "2023-05-26"
 [[routes]]
 pattern = "coba.v-less.biz.id"
 custom_domain = true
+[[routes]]
+pattern = "ava.game.naver.com.coba.v-less.biz.id"
+custom_domain = true
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
