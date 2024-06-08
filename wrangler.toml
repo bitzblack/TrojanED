@@ -1,14 +1,11 @@
-name = "tr-my" # todo
+name = "tr-coba" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
-main = "_worker.js"
+main = "trojann.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "tr-my.v-less.biz.id"
-custom_domain = true
-[[routes]]
-pattern = "ava.game.naver.com.tr-my.v-less.biz.id"
+pattern = "tr-coba.v-less.biz.id"
 custom_domain = true
 
 [vars]
@@ -18,5 +15,5 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-PASSWORD = "MY-BitzBlack"
-PROXYIP = "209.73.129.185"
+PASSWORD = "coba"
+PROXYIP = "8.222.181.117"
