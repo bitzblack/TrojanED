@@ -1,4 +1,4 @@
-name = "bitzblack" # todo
+name = "kontol" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -15,3 +15,5 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
+Pswd = "bitzblack"
+PROXYIP = "89.34.227.133"
