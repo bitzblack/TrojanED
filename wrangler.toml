@@ -1,11 +1,11 @@
-name = "kontol" # todo
+name = "esge" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
-main = "trojanngw.js"
+main = "vlessgw.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "trojan.v-less.biz.id"
+pattern = "esge.v-less.biz.id"
 custom_domain = true
 
 [vars]
@@ -15,5 +15,5 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-Pswd = "bitzblack"
+UUID = "b0cb1b0b-f5ba-4ca4-a587-cfe48126bff7"
 PROXYIP = "89.34.227.133"
