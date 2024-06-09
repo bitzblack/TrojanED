@@ -1,11 +1,11 @@
-name = "tr-coba" # todo
+name = "prawan" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
-main = "trojann.js"
+main = "trojanngw.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "tr-coba.v-less.biz.id"
+pattern = "trojan.v-less.biz.id"
 custom_domain = true
 
 [vars]
@@ -15,5 +15,3 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-PASSWORD = "coba"
-PROXYIP = "8.222.181.117"
